@@ -6,13 +6,13 @@
   "icon": "resources/marketplace.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/timheuer/mympclient.git"
+    "url": "https://github.com/CodeSculptTech/mympclient.git"
   },
   "license": "MIT",
-  "publisher": "timheuer",
+  "publisher": "CodeSculpt",
   "preview": true,
   "author": {
-    "name": "Tim Heuer"
+    "name": "Prahant Cholachagudda"
   },
   "contributors": [
     {
@@ -22,7 +22,7 @@
       "name": "Tim Heuer"
     }
   ],
-  "qna": "https://github.com/timheuer/mympclient/issues",
+  "qna": "https://github.com/CodeSculptTech/mympclient/issues",
   "engines": {
     "vscode": "^1.78.0"
   },
